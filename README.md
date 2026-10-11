@@ -1,4 +1,4 @@
-# SUPER AWESOME PROJECT!!! 
+# MP3 PLayer
 hey! this is text explaining what my awesome project is :) 
 here's an AWESOME gif of my project!
 ![awesome gif](https://user-cdn.hackclub-assets.com/019f0195-7b3c-7a6b-a8c9-ba589c575ae6/blahajmeow.gif)
