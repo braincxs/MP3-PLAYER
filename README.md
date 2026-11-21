@@ -1,11 +1,20 @@
+<img width="622" height="921" alt="image" src="https://github.com/user-attachments/assets/84db2c6f-2c5b-41ae-b5f6-a0dd65539e1b" />
+<img width="765" height="930" alt="image" src="https://github.com/user-attachments/assets/af0a2c2d-1037-444e-89be-06a5dcc778f9" />
+
+
 # BITSTREAM
 This is a pcb for a custom mp3 player
-Features:
+## Features
+- A 8Ω, 2W speaker
+- A audio jack for wired earphones
+- A small display screen
+- a micro sd card to upload your music
+- 4 buttons to select your music
+- a rotary encoder to adjust the volume
 
-![awesome gif](https://user-cdn.hackclub-assets.com/019f0195-7b3c-7a6b-a8c9-ba589c575ae6/blahajmeow.gif)
+
 ## HOW THIS WAS MADE
-*example for this site*
-this project was made with [astro](https://astro.build) using the [starlight](https://starlight.astro.build/) template :D
+I used kicad to make this and it was my first time doing so.
 
 ## heres how to run the project :)
 1. Clone the source code to your device
