@@ -1,5 +1,5 @@
-<img width="622" height="921" alt="image" src="https://github.com/user-attachments/assets/84db2c6f-2c5b-41ae-b5f6-a0dd65539e1b" />
-<img width="765" height="930" alt="image" src="https://github.com/user-attachments/assets/af0a2c2d-1037-444e-89be-06a5dcc778f9" />
+<img width="207" height="307" alt="image" src="https://github.com/user-attachments/assets/84db2c6f-2c5b-41ae-b5f6-a0dd65539e1b" />
+<img width="255" height="310" alt="image" src="https://github.com/user-attachments/assets/af0a2c2d-1037-444e-89be-06a5dcc778f9" />
 
 
 # BITSTREAM
