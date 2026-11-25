@@ -1,4 +1,5 @@
 hello, this is my repo
+
 During exam, i keep seeing people using a EXPENSIVE mp3 player around RM200 (50$), and it's not even hard to build so I said why not build one and that's what i did :)
 And it was a lot of fun, pcb designing is a MUST TRY
 
